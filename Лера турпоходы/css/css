@@ -1,0 +1,5 @@
+.description{
+    position: absolute;
+    top: 30%;
+    margin: auto;
+    padding: 2em;
